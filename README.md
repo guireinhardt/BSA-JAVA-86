@@ -5,3 +5,4 @@
 # Aprendizados
 
 - Tipos primitivos e Operadores.
+- Estrutura Condicional
