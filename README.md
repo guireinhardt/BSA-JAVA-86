@@ -4,5 +4,6 @@
 
 # Aprendizados
 
-- Tipos primitivos e Operadores.
-- Estrutura Condicional
+- Tipos primitivos e Operadores;
+- Estrutura Condicional;
+- Tratamento de erro;
