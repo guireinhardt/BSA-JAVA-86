@@ -1,8 +1,8 @@
 # BSA-JAVA-86
 
-### Repositorio sobre o curso de Java do Senai
+### Repositorio sobre o aprendizado no curso de Java do Senai
 
-# Aprendizados
+# Conhecimentos
 
 - Tipos primitivos e Operadores;
 - Estrutura Condicional;
