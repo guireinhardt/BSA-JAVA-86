@@ -10,4 +10,6 @@
 - Estrutura de repetição;
 - Orientação a objetos
   - Classes
-  - 
+  - Herança
+  - Polimorfismo
+- Conexão com banco de dados **MySQL**
